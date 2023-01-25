@@ -10,4 +10,5 @@
 
 
 ⚡ Fun fact: I have a cat called melody who is really old and angry all the time.
-<img src="matthew-macaulay.jpg" alt="Alt text" title="Optional title">
+
+<img src="Matthew Macaulay.jpg" alt="Alt text" title="Optional title">
