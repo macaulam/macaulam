@@ -9,6 +9,6 @@
 😄 Pronouns: Him/He
 
 
-⚡ Fun fact: I have a cat called melody who is really old and angry all the time.
+⚡ Fun fact: I have a cat called melody who is really old.
 
 <img src="meli.gif" alt="Alt text" title="Optional title">
