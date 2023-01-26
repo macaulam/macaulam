@@ -9,4 +9,4 @@
 😄 Pronouns: Him/He
 ⚡ Fun fact: I have a cat called melody who is really old.
 
-<img src="download.png" alt="Alt text" title="Optional title">
+<img src="" alt="Alt text" title="Optional title">
