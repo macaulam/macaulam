@@ -7,8 +7,6 @@
 💬 Ask me about anything
 📫 How to reach me: by my website
 😄 Pronouns: Him/He
-
-
 ⚡ Fun fact: I have a cat called melody who is really old.
 
 <img src="download.png" alt="Alt text" title="Optional title">
